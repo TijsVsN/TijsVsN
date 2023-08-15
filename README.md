@@ -4,7 +4,6 @@
 
 
 My Goals 🥅
-- Learning Git
 - Learning more Laravel and PHP
 
 
