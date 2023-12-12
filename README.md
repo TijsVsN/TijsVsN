@@ -8,4 +8,4 @@ My Goals 🥅
 
 
 Contact 📞
-- Discord: TijsVsN#4935
+- Discord: TijsVsN
