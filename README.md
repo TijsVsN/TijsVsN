@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @TijsVsN
-- 👀 I’m interested in programming, aviation and much more!
-- 🌱 I’m currently learning Laravel and PHP
+# 👋 Hi, I’m @TijsVsN
+ 👀 I’m interested in programming, aviation and much more!
+ 🌱 I’m currently learning Laravel and PHP
 
 
-My Goals 🥅
+### My Goals 🥅
 - Learning more Laravel and PHP
 
 
-Contact 📞
+### Contact 📞
 - Discord: TijsVsN
